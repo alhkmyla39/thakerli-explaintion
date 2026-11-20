@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Source--linked%20AI-507141?style=flat-square" alt="Source-linked AI" />
 </p>
 
+![Thakerli landing page with note upload, sample lecture, and flashcard navigation](./assets/landing-page.png)
+
 ## What is Thakerli?
 
 Thakerli is a bilingual AI study assistant. Students can upload text or PDF notes, ask questions about them, and open the source excerpts behind each answer. They can also turn their material into quizzes and flashcards and come back to saved practice later.
